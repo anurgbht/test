@@ -1,5 +1,7 @@
 # test
 import os
-# we made some changes in the file
+
+# this is the original file
+# we are trying to understand how git works
 
 print(os.getcwd())
